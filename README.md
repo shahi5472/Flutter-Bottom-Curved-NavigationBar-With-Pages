@@ -2,6 +2,15 @@
 
 A new Flutter application.
 
+
+![image](https://github.com/shahi5472/Flutter-Bottom-Curved-NavigationBar-With-Pages/blob/master/screenshot/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202020-04-28%20at%2005.34.12.png)
+
+![image](https://github.com/shahi5472/Flutter-Bottom-Curved-NavigationBar-With-Pages/blob/master/screenshot/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202020-04-28%20at%2005.34.18.png)
+
+![image](https://github.com/shahi5472/Flutter-Bottom-Curved-NavigationBar-With-Pages/blob/master/screenshot/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202020-04-28%20at%2005.34.19.png)
+
+![image](https://github.com/shahi5472/Flutter-Bottom-Curved-NavigationBar-With-Pages/blob/master/screenshot/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202020-04-28%20at%2005.34.22.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
