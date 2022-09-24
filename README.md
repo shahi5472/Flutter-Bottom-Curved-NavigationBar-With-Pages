@@ -2,6 +2,12 @@
 
 A new Flutter application.
 
+<br>
+
+<a href="https://www.buymeacoffee.com/smkamal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+<br>
+
 
 ![image](https://github.com/shahi5472/Flutter-Bottom-Curved-NavigationBar-With-Pages/blob/master/screenshot/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202020-04-28%20at%2005.34.12.png)
 
